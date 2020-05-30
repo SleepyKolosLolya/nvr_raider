@@ -8,8 +8,8 @@ from vk_api import VkUpload
 import vk_api.bot_longpoll
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-token = 'f1e218aa4404a2bcac936288e591539dabb95084a8af17ed5c47925cb157d152ebd432825f3d3787d551b'
-group_id = 192818743
+token = 'f1e218aa440******************************************************7d551b'
+group_id = 192***743
 
 IIIIiiIiIIiiIiiI = vk_api.VkApi(token=token)
 IIIIiiIiIIiiiIiiiI = VkBotLongPoll(IIIIiiIiIIiiIiiI, group_id, wait=30)
