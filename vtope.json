@@ -1,0 +1,145 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 1"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 2"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 3"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 4"
+      },
+      "color": "default"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 5"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 6 "
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 7"
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 8"
+      },
+      "color": "negative"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 9"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 10"
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 11"
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 12"
+      },
+      "color": "negative"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 13"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 14"
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 15"
+      },
+      "color": "negative"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 16"
+      },
+      "color": "negative"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 17"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 18"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 19"
+      },
+      "color": "default"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "/ текстТекст vto.pe 20"
+      },
+      "color": "default"
+    }]
+  ]
+}
